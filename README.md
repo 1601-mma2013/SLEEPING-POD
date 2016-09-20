@@ -14,8 +14,8 @@ SLEEPING POD
 
 
 ### b. Audit
-Review existing work and product
-1. Field (market) research
+Existing work and product
+1. http://www.sleepreviewmag.com/2014/07/companies-invest-nap-pods/
 
 2. competitors / alternatives / replacement
 
