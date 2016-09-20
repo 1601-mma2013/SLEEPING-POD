@@ -7,9 +7,13 @@ SLEEPING POD
 ## 1. Research  
 ### a. Scope
 Define project goals and schedule
+
 1. objectives
-  .Seperate sleeping pod in a campus for female and male student to take a rest during the break/ gap one hour
+  *Seperate sleeping pod in a campus for female and male student to take a rest during the break/ gap one hour
   before the next class.
+*will be able to recharge their minds after a restful nap in the new sleep pod located on campus.
+
+
 
 ### b. Audit
 Review existing work and product
