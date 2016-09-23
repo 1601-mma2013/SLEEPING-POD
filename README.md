@@ -33,10 +33,10 @@ Understand product vision and constraints
 
 
 3. Obstacles
-	1. To keep the pod hygenic and cared by the students.
+	1. external threats 
 4. constraints 
 	1. Internal limitations 
-		1. viable technologies
+		2. viable technologies
 		2. cost
 5. opportunities 
 	1. **In spite of** the obstacles we have this project has strength from a), b), c), …. 
@@ -141,6 +141,7 @@ Represent domain factors beyond individual users and customers
 
 
 Here is Caithlyn’s context scenario:
+
 1.Caithlyn got to class every mostly late for 5- 10 mins as she didn’t get enough sleep . During the lesson the almost dozed off, the class usually starts at 9 am and ends 12 pm then she had 1 hour gap for her next class.
 
 2.During that gap usually have lunch for 15 mins then she usually take a nap at the library lounge, sometimes she felt uncomfortable because others student  are looking at her, especially male student.
@@ -156,17 +157,19 @@ Notice how the scenario remains at a fairly high level, without getting too spec
 ### b. Requirements
 Describe necessary capabilities of the product
 - Functional and data needs
-- 	-Comfy
-- 	-
+     - Comfy to rest
+     - 
+     - Application
+     - Easy to book
+
 - user mental models
 - design imperatives
 - product vision
 - business requirements
 - technology
-- 	-Touch screen
-- 	-Sensor
-- 	-Sleep Mode
-- 	-Sound Proof
+     - Touch screen
+     - Sensor
+     - Sleep Mode
 
 ## 2. Design Framework
 ### a. Elements
