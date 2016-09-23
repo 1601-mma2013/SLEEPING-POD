@@ -33,10 +33,10 @@ Understand product vision and constraints
 
 
 3. Obstacles
-	1. external threats 
+	1. To keep the pod hygenic and cared by the students.
 4. constraints 
 	1. Internal limitations 
-		2. viable technologies
+		1. viable technologies
 		2. cost
 5. opportunities 
 	1. **In spite of** the obstacles we have this project has strength from a), b), c), …. 
