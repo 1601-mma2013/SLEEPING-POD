@@ -1,17 +1,14 @@
-# SLEEPING-POD
-INTAN FERRLIA &amp; NIA IZNIE
+##Group Member's Name:
+####Intan Ferrlia Binti Ikramshah	(1141327595)
+####Nia Iznie Binit Rosli 		(1132702608)
 
-SLEEPING POD
+# Sleeping-Pod
 # I. Analysis
-
 ## 1. Research  
 ### a. Scope
-## objectives
- -Seperate sleeping pod in a campus for female and male student to take a rest during the break/ gap one hour
-  before the next class.
--will be able to recharge their minds after a restful nap in the new sleep pod located on campus.
-
-
+### Objectives
+  -To recharge The Student and Staff MMU's minds after a restful nap.
+  -To increase the productivity of students and staff.
 
 ### b. Audit
 Existing work and product
