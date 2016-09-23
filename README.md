@@ -35,7 +35,7 @@ Understand product vision and constraints
 3. Obstacles
 	1. external threats 
 4. constraints 
-	1. Internal limitations 
+	1. 
 		2. viable technologies
 		2. cost
 5. opportunities 
