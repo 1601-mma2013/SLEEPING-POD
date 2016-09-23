@@ -168,7 +168,7 @@ Design overall structure of user experience
 
 1. Sketch
 	1. if your project is a design product
-		1. Your sketch must be a wireframe.
+		http://i749.photobucket.com/albums/xx134/TaemiNia/SleepingPod.jpeg
 	2. if your project is a installation project
 		1. Your sketch must be a installation sketch.
 	3. Must have
