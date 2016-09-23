@@ -12,6 +12,7 @@ Objectives -To recharge The Student and Staff MMU's minds after a restful nap.
 ### b. Audit
 Existing work and product
 1. http://www.sleepreviewmag.com/2014/07/companies-invest-nap-pods/
+   http://sleepingpodsguide.com/
 
 2. competitors / alternatives / replacement
 
