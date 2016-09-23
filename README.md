@@ -25,9 +25,12 @@ http://www.sleepreviewmag.com/2014/07/companies-invest-nap-pods/
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
 1. product{project} vision 
+   •	To improve productivity among student
 
 2. risk
-	3. What is the worst result?
+   •Someone might  vandalise
+   •Misused the pod (eg: using is to stay for a longer time
+
 
 3. Obstacles
 	1. external threats 
