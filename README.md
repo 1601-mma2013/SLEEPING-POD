@@ -6,8 +6,8 @@
 # I. Analysis
 ## 1. Research  
 ### a. Scope
-	Objectives -To recharge The Student and Staff MMU's minds after a restful nap.
-  		   -To increase the productivity of students and staff.
+Objectives -To recharge The Student and Staff MMU's minds after a restful nap.
+           -To increase the productivity of students and staff.
 
 ### b. Audit
 Existing work and product
