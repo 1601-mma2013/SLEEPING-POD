@@ -146,6 +146,7 @@ Represent domain factors beyond individual users and customers
 ## 1. Requirements Definition
 ### a. Context Scenarios
 
+here are the agenda: Adults need 7-8 hours (sleep). nearly 30% of adults reported an average of ≤6 hours of sleep per day.
 
 Here is Caithlyn’s context scenario:
 
@@ -163,15 +164,24 @@ Here is Caithlyn’s context scenario:
 Notice how the scenario remains at a fairly high level, without getting too specific about interfaces or technologies. It’s important to create scenarios that are within the realm of technical possibility, but at this stage the details of reality are unimportant. We want to leave the door open for truly novel solutions, and it’s always possible to scale back; we are ultimately trying to describe an optimal, yet still feasible, experience. Also notice how the activities in the scenario tie back to Vivien’s goals and try to eliminate as many tasks as possible.
 ### b. Requirements
 Describe necessary capabilities of the product
+   •healthy and smart choice for a hygienic, ergonomically designed space to rest or sleep to aid users in increasing mental and     	  	physical wellness, as well as productivity by providing moments of relaxation and rejuvenation.
 - Functional and data needs
      - Comfy to rest
-     - 
+     - health benefits
      - Application
      - Easy to book
 
 - user mental models
 - design imperatives
+•	Capsule design insures privacy and protection.
+•	Sound deadening material.
+•	Hygienic antimicrobial surface. 
+•	Audio system.
+•	Memory foam pad. 
+
 - product vision
+•Healthy and smart choice for a hygienic, ergonomically designed space to rest or sleep to aid users in increasing mental and physical wellness, as well as productivity by providing moments of relaxation and rejuvenation.
+
 - business requirements
 - technology
      - Touch screen
