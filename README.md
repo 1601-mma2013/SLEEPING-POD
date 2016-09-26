@@ -74,6 +74,8 @@ user and customer archetypes
 1. **goals**
 
 2. Patterns in user and customer behaviors
+    •	relaxation is meant to shift the focus of your mind from your daily problems to your body, so that your tight muscles can relax
+	
 
 3. attitudes
 
