@@ -33,8 +33,8 @@ Understand product vision and constraints
    
 
 2. risk
-   •Someone might  vandalise
-   •Misused the pod (eg: using is to stay for a longer time
+   *Someone might  vandalise
+   *Misused the pod (eg: using is to stay for a longer time
 
 
 3. Obstacles
