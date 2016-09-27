@@ -7,8 +7,8 @@
 ## 1. Research  
 ### a. Scope
    Objectives 
-   •	To recharge The Student and Staff MMU's minds after a restful nap.
-   •	To increase the productivity of students and staff.
+   *	To recharge The Student and Staff MMU's minds after a restful nap.
+   *	To increase the productivity of students and staff.
 
 	   
 
@@ -28,7 +28,7 @@ http://www.sleepreviewmag.com/2014/07/companies-invest-nap-pods/
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
 1. product{project} vision 
-   •	To provide a university with a mechanism to increase the personal well-being productivity and 
+   *	To provide a university with a mechanism to increase the personal well-being productivity and 
         relaxation for all stakeholder
    
 
