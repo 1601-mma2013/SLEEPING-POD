@@ -74,38 +74,6 @@ Find various aspect of audience/customer
 
 ## 2. Modeling
 ### a. Personas
-user and customer archetypes
-
-1. **goals**
-
-2. Patterns in user and customer behaviors
-    •	relaxation is meant to shift the focus of your mind from your daily problems to your body, so that your tight muscles can relax
-	
-
-3. attitudes
-
-4. aptitudes
-
-5. environments
-
-6. tools
-
-7. challenges
-
-### b. Other Models
-Represent domain factors beyond individual users and customers
-1. Workflows among multiple people
-
-2. environments
-
-3. artifacts
-# II. Synthesis
-## 1. Requirements Definition
-### a. Context Scenarios
-A sample context scenario
-
-## 2. Modeling
-### a. Personas
 
 name: Caithlyn
 
@@ -120,20 +88,23 @@ Caithlyn is 20 years old girl who study in Multimedia University, majoring in An
 Problem: Not enough sleep
 
 1. Goal
-   •	designed to give you a perfectly timed, energy-reviving 20-60 minute nap.
-   •	will be able to recharge their minds after a restful nap in the new sleep pod located on campus
+   •	designed to give her a perfectly timed, energy-reviving 20-60 minute nap.
+   •	will be able to recharge her minds after a restful nap in the new sleep pod located on campus
 
 2. Patterns in user and customer behaviors
+   •	Always busy with club activities and never skipped class 
 
 3. attitudes
+   •	Caithlyn is a hardworking person, loves to socialize but also loves to have her own time alone.
 
 4. aptitudes
+   •	Tend to not get enough sleep.
 
 5. environments
-
-6. tools
+   •		
 
 7. challenges
+   •	A place to have a nap when she's exhauted during her busy day.
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
@@ -162,6 +133,7 @@ Here is Caithlyn’s context scenario:
 
 
 Notice how the scenario remains at a fairly high level, without getting too specific about interfaces or technologies. It’s important to create scenarios that are within the realm of technical possibility, but at this stage the details of reality are unimportant. We want to leave the door open for truly novel solutions, and it’s always possible to scale back; we are ultimately trying to describe an optimal, yet still feasible, experience. Also notice how the activities in the scenario tie back to Vivien’s goals and try to eliminate as many tasks as possible.
+
 ### b. Requirements
 Describe necessary capabilities of the product
    •healthy and smart choice for a hygienic, ergonomically designed space to rest or sleep to aid users in increasing mental and     	  	physical wellness, as well as productivity by providing moments of relaxation and rejuvenation.
