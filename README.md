@@ -19,6 +19,7 @@ http://www.sleepreviewmag.com/2014/07/companies-invest-nap-pods/
 
 2. competitors / alternatives / replacement
 	![alt tag](http://i749.photobucket.com/albums/xx134/TaemiNia/SleepingPod_.jpeg)
+	http://podstyle.com.au/napshell-space
 
 3. relevant technologies 
 	-Set Timer
@@ -56,21 +57,26 @@ Find various aspect of audience/customer
 1. Users
 
 2. potential users
+  *student and staff of university
 
 3. (user’s) behaviors
+  *making self comfortable to the sleeping pod
 
 4. (user’s) attitudes
+  *keeping the sleeping cleen for other user
 
 5. (user’s) aptitudes
-	- users’s ability to learn something quickly and do it well
+  *users’s ability to learn something quickly and do it well
 
 6. (user’s) motivations
 
 7. (user’s) environments
+  *quiet and comfy
 
 8. (user’s) tools
 
 9. (user’s) challenges
+  *limited pod for the student
 
 ## 2. Modeling
 ### a. Personas
