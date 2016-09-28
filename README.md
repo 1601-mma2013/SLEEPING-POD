@@ -94,23 +94,23 @@ Caithlyn is 20 years old girl who study in Multimedia University, majoring in An
 Problem: Not enough sleep
 
 1. Goal
-   •	designed to give her a perfectly timed, energy-reviving 20-60 minute nap.
-   •	will be able to recharge her minds after a restful nap in the new sleep pod located on campus
+  *designed to give her a perfectly timed, energy-reviving 20-60 minute nap.
+  *will be able to recharge her minds after a restful nap in the new sleep pod located on campus
 
 2. Patterns in user and customer behaviors
-   •	Always busy with club activities and never skipped class 
+  *Always busy with club activities and never skipped class 
 
 3. attitudes
-   •	Caithlyn is a hardworking person, loves to socialize but also loves to have her own time alone.
+   *Caithlyn is a hardworking person, loves to socialize but also loves to have her own time alone.
 
 4. aptitudes
-   •	Tend to not get enough sleep.
+  *tend to not get enough sleep.
 
 5. environments
-   •		
+  *private place	
 
 7. challenges
-   •	A place to have a nap when she's exhauted during her busy day.
+  *A place to have a nap when she's exhauted during her busy day.
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
