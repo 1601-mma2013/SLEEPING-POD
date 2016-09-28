@@ -193,7 +193,7 @@ Design overall structure of user experience
 		2. Territories of each functional & design elements
 		3. Arrangements of containers & components
 2. Key path Scenario
-  user will need to wait for other user to use the pod before they where using it the sleeping pod will be limited as the cost to buy it   is expensive.
+ *The tube-shaped sleep pod features a single mattress and a door for privacy. Students can reserve the sleep pod a day ahead for up to   an hour. Each student will be provided with clean sheets and sanitizer.
 
 
 
